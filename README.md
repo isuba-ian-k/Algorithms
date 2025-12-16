@@ -1,3 +1,3 @@
 # Implementation of Machine Learning Algorithms
 
-IN this repo you will find the raw implementation of various machine learning algorithms.
+In this repo you will find the raw implementation of various machine learning algorithms.
